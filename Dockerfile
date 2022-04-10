@@ -1,5 +1,5 @@
 FROM python:3.11.0a3-alpine3.15
-LABEL maintainer=gitdi-lahcen
+LABEL maintainer=gitdi
 
 RUN apk --no-cache add python3 py3-pip
 
